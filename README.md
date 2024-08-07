@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm vardan kumar</h1>
-<h3 align="center">A FullStack developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm   Vardan Kumar</h1>
+<h3 align="center">I'm a full stack developer with a drive and passion for building, scalable, cutting edge applications with strong emphasis on user experiences.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
